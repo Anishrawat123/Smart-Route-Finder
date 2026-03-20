@@ -26,6 +26,7 @@
 - React.js (Vite)
 - Tailwind CSS
 - React Flow
+- React-leaflet
 
 **Backend**
 - Node.js
